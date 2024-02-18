@@ -1,5 +1,6 @@
-gunicorn==20.1.0
-Flask==3.0.2
-lightgbm==4.3.0
-pandas==2.2.0
-requests==2.31.0
+Flask
+lightgbm
+numpy
+pandas
+gunicorn
+scikit-learn==1.2.2
